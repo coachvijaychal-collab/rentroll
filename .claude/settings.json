@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(supabase *)",
+      "Bash(git status)",
+      "Bash(git diff*)",
+      "Edit(spec/**)"
+    ]
+  }
+}
